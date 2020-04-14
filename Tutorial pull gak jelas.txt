@@ -1,0 +1,8 @@
+klik link github klompok,
+klik fork,
+drag n drop file yg diganti/update,
+klik new pull request,
+klik Create Pull Request,
+Isi title terserah,
+SELESAI ! 
+Cek Pull Request Master Branch milik ketua kelompok
